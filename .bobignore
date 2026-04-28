@@ -1,7 +1,0 @@
-!.bob/
-!.bob/**
-!CLAUDE.md
-!AGENTS.md
-# Self-unignore so Bob does not refuse to execute commands just
-# because .bobignore is listed in the repo .gitignore.
-!.bobignore
