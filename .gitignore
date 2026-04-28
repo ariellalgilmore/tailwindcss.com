@@ -41,3 +41,7 @@ yarn-error.log*
 next-env.d.ts
 .claude/settings.local.json
 /.claude/skills
+.carbon-migration/
+CLAUDE.md
+AGENTS.md
+.bob/
